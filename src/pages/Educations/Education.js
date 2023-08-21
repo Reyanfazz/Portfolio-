@@ -19,26 +19,39 @@ const Education = () => {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2020 - 2022"
+            date="2018"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
-            <h3 className="vertical-timeline-element-title">MCA</h3>
+            <h3 className="vertical-timeline-element-title">10TH(SSC)</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              IIT Mumbai, IN
+              ST. Joesph's High School, Hanamkonda, Warangal(Urban), Telangana
             </h4>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="2017 - 2020"
+            date="2018 - 2020"
             iconStyle={{ background: "#138781", color: "#fff" }}
             icon={<MdSchool />}
           >
-            <h3 className="vertical-timeline-element-title">BCA</h3>
+            <h3 className="vertical-timeline-element-title">Computer Science</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              IIT Mumbai, IN
+              Government Vocational Junior College, Hanamkonda, Warangal(Urban),Telangana
+            </h4>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="2020 - 2023"
+            iconStyle={{ background: "#138781", color: "#fff" }}
+            icon={<MdSchool />}
+          >
+            <h3 className="vertical-timeline-element-title">Computer Science</h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              Vaagdevi Degree&PG College,NaimNagar , Hanamkonda, Warangal(Urban),Telangana
             </h4>
           </VerticalTimelineElement>
         </VerticalTimeline>
